@@ -1,15 +1,57 @@
+.center-align {
+	text-align: center;
+}
+
+.left-align {
+	text-align: left;
+}
+
+h1 {
+	color:blueviolet;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+h2 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+ul {
+	display: inline-block;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
 label {
-	display: block;
-	margin: 5px 0;
+	display: inline-block;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+input {
+	display: inline-block;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }
 
 table {
 	border-collapse: collapse;
 	border-spacing: 0;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 td,
 th {
 	padding: 5px;
 	border-bottom: 1px solid #aaa;
+	text-align: left;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+
+td.no-border,
+th.no-border {
+	padding: 5px;
+	text-align: left;
+	border-right:none;
+	border-left:none;
+	border-bottom:none;
+	border-top:none;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
 }

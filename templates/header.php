@@ -9,5 +9,7 @@
 	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-	<h1>Product Catalog</h1>
-	<br>
+	<div class="center-align"> 
+		<h1>Product Catalog</h1>
+		<br>
+	</div>
