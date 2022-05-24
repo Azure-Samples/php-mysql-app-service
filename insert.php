@@ -58,7 +58,7 @@
                 <td class="no-border"> <input type="text" name="ProductName" id="ProductName"> </td>
             </tr>
             <tr>
-                <td class="no-border"> <label for="Price (USD)">Price</label> </td>
+                <td class="no-border"> <label for="Price">Price (USD)</label> </td>
                 <td class="no-border"> <input type="text" name="Price" id="Price"> </td>
             </tr>
         </table>      
